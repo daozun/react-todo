@@ -1,1 +1,0 @@
-一个练习 `react` 项目，store 使用了 `zustand`，ui 使用了 `antd` 和 `react-bootstrap`，功能是 todolist
