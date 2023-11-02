@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  width:500px;
+  height:30vw;
+  margin:50px auto;
+}
+
+.ant-input {
+  border-radius: 0%;
+}
